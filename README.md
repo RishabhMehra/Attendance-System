@@ -1,12 +1,11 @@
-# Attendance-System
+# Face recognition
 
 Face recognition is the problem of identifying and verifying people in a photograph by their face.
-
 It is a task that is trivially performed by humans, even under varying light and when faces are changed by age or obstructed with accessories and facial hair. Nevertheless, it is remained a challenging computer vision problem for decades until recently.
 
 Deep learning methods are able to leverage very large datasets of faces and learn rich and compact representations of faces, allowing modern models to first perform as-well and later to outperform the face recognition capabilities of humans.
 
-
+# ArcFace
 
 ArcFace is a machine learning model that takes two face images as input and outputs the distance between them to see how likely they are to be the same person. It can be used for face recognition and face search.
 
